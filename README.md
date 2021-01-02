@@ -10,10 +10,12 @@
 2. 安装各类 Extensions，扩展 sphinx 的功能。例如启用 Google Analytics、给文档增加评论功能、启动搜索引擎、语法检查等。
 ## 小组分工
 1. 产品概览、定制新主题，改变原有默认属性——郑执方
-2. 连接计算机、链接多个页面、启用Google Analytics——潘洋
+2. 连接计算机、reference、链接多个页面、启用Google Analytics——潘洋
 3. 产品使用、给文档添加评论功能——徐宁
 4. 问题解决、启动搜索引擎、语法检查——王江颖
+   
+>文件命名要求：参考`..\source\images\命名参考.png`
 ## 目标
 1. 由sphinx发布两版投影仪说明书。（一版rst,一版Markdown）
 2. GitHub仓库链接
-3. 说明PPT
+3. 说明PPT（难点、关键步骤注意截图）
