@@ -27,7 +27,7 @@
 
 ### **屏幕切换** ### 
     对于WIN10系统，按下WIN+P键将出现下图，选择“复制”即可完成屏幕切换。
-![avatar](images/屏幕切换.png)
+![avatar](source/../images/screen.png)
 
 ### **播放PPT** ### 
 播放PPT中可能用到的实用功能:
