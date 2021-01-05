@@ -16,6 +16,6 @@
    
 >文件命名要求：参考`..\source\images\命名参考.png`
 ## 目标
-1. 由sphinx发布两版投影仪说明书。（一版rst,一版Markdown）
+1. 由sphinx发布两版投影仪说明书。、
 2. GitHub仓库链接
 3. 说明PPT（难点、关键步骤注意截图）
