@@ -10,7 +10,7 @@ Welcome to projector_sphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   functions.rst
 
 Indices and tables
 ==================
