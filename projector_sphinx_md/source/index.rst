@@ -3,18 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to projector_sphinx's documentation!
+爱普生投影仪说明书
 ============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   troubleshooting.md
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
