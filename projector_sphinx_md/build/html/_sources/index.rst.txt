@@ -9,7 +9,10 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   functions.rst
+   how to connect the laptop.rst
+   how to use the projector.md
    troubleshooting.md
-
+   specification.rst
 
